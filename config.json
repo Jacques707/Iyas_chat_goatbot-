@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "༆𝐈𝐘𝐀𝐒 𝐜𝐡𝐚𝐭𝐂𝐏𝐓🌹꧂",
+	"nickNameBot": "༆♨ 𝐜𝐡𝐚𝐭𝐠𝐩𝐭04",
 	"prefix": "~",
 	"adminOnly": {
 		"enable": false,
@@ -144,3 +144,4 @@
 		"autoReconnect": false,
 		"notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
 	}
+}
